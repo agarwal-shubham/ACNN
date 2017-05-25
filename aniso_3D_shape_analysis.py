@@ -47,7 +47,7 @@ from icnn import aniso_utils_lasagne, dataset, snapshotter
 
 # In[2]:
 
-base_path = '../ACNN_patch_constructor/data/train/patch/'
+base_path = 'ACNN_patch_constructor/data/train/patch/'
 
 # train_txt, test_txt, descs_path, patches_path, geods_path, labels_path, ...
         # desc_field='desc', patch_field='M', geod_field='geods', label_field='labels', epoch_size=100
